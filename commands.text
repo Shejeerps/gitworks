@@ -5,3 +5,14 @@ configaration
 >git config --global user.name "username"[adding global user.name]
 >git config --global user.email "useremail@gmail.com"[adding global user.email]
 
+command for initializing git repository
+>git init
+
+command for adding all changes to staging area
+>git add -A
+
+command for adding staged files to local repository
+>git commit -m "commit messages"
+
+command for listing all untracked files
+>git status
