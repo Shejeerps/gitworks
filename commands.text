@@ -19,3 +19,12 @@ command for listing all untracked files
 
 command for listing branches
 >git branch
+
+command for listing remote repository
+>git remote -v
+
+command for adding local repository to remote repository
+>git remote add name path
+
+command for pushing
+>git push name branch
