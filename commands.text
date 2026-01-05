@@ -19,5 +19,3 @@ command for listing all untracked files
 
 command for listing branches
 >git branch
-
-
